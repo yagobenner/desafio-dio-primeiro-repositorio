@@ -2,6 +2,13 @@
 
 Repositório criado para o desafio de projeto git/github Dio.
 
-### Links Úteis 🖱️
+### Aqui você encontra:
 
-- [Sintaxe markdown](https://www.markdownguide.org/cheat-sheet/)
+👉 **Links Úteis**
+
+👉 **Comandos básicos GIT** (Em desenvolvimento)
+
+
+
+
+
