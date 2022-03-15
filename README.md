@@ -4,4 +4,4 @@ Repositório criado para o desafio de projeto git/github Dio.
 
 ### Links Úteis 🖱️
 
-- https://www.markdownguide.org/
+- [Sintaxe markdown](https://www.markdownguide.org/cheat-sheet/)
