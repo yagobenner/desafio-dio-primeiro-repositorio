@@ -6,7 +6,10 @@ Repositório criado para o desafio de projeto git/github Dio.
 
 👉 **Links Úteis**
 
-👉 **Comandos básicos GIT** (Em desenvolvimento)
+👉 **Comandos básicos GIT** 
+
+👉 **Editores Markdown**
+
 
 
 
