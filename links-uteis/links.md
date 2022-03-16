@@ -8,5 +8,7 @@ Aqui você encontra links para facilitar o acesso a alguns serviços e guias! :s
 
 - [Sintaxe markdown](https://www.markdownguide.org/cheat-sheet/)
 
+- [Emojis](https://emojipedia.org/shortcodes/)
+
   
 
