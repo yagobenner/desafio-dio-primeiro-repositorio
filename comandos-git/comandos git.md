@@ -7,7 +7,7 @@
 Define seu nome de usuário e e-mail, que estarão presentes nos commits feitos. Se utilizarmos --global, como mostrado a baixo, será necessário realizar o processo apenas uma vez.
 
 > git config --global user.email seuemail@exemplo.com.br
->
+> 
 > git config --global user.name "Seu Nome"    
 
 #### git init
@@ -56,4 +56,12 @@ Envia os commits de seu repositório local para o remoto. Para isso, vamos utili
 
 Repositórios remotos permitem que estes arquivos sejam alterados simultaneamente. Caso uma alteração seja feita e enviada ao repositório por outra pessoa, vamos precisar incorporar estas alterações em nossa branch antes de enviarmos as atualizações feitas por nós.
 
-> git pull origin(rep remoto) main(branch)
+> git pull origin(rep remoto) main(branch) 
+
+> git pull origin(rep remoto) main(branch) 
+
+#### git remote add
+
+Vamos utilizar este comando para adicionarmos o caminho de um novo repositório.
+
+> git remote add origin 'https://github.com/usuario/nomedomeuprojeto.git'
